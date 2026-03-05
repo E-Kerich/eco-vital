@@ -23,8 +23,7 @@ const navLinks = [
 ];
 
 const supportLinks = [
-  { name: "Settings", path: "/settings", icon: Settings },
-  { name: "Help", path: "/help", icon: HelpCircle }
+
 ];
 
 export default function Sidebar() {
